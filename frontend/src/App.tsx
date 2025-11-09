@@ -1,12 +1,12 @@
 import { Routes, Route, Navigate } from 'react-router-dom'
-import Layout from './components/Layout'
-import Dashboard from './pages/Dashboard'
-import Courses from './pages/Courses'
-import Classes from './pages/Classes'
-import Faculties from './pages/Faculties'
-import Lessons from './pages/Lessons'
-import Classrooms from './pages/Classrooms'
-import Timetable from './pages/Timetable'
+import Layout from './components/Layout.tsx'
+import Dashboard from './pages/Dashboard.tsx'
+import Courses from './pages/Courses.tsx'
+import Classes from './pages/Classes.tsx'
+import Faculties from './pages/Faculties.tsx'
+import Lessons from './pages/Lessons.tsx'
+import Classrooms from './pages/Classrooms.tsx'
+import Timetable from './pages/Timetable.tsx'
 
 function App() {
   return (
